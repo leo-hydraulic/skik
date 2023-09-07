@@ -1,2 +1,0 @@
-# skik
-Internal test repo
